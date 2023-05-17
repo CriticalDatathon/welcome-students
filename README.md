@@ -16,15 +16,15 @@
 ## Teams
 | Team | High School Students | Mentors | 
 | -- | -- | -- |
-| Team 1 | Bella D'Alessandro, Alex Moreira, Angelyce Sanchez | TBD |
-| Team 2 | Lennon Farias, Christian Gobern, Ariella Johnson | TBD |
-| Team 3 | Ava Domingues, Andrew Daniel, William Shealy | TBD |
-| Team 4 | Angela Hardy, Heidy Gomez, Alexa Eliminowicz | TBD |
-| Team 5 | Ty Messier, Christopher Howard, Michael Scotti | TBD |
-| Team 6 | Hope Moran, Abygail Josephson, Luke Gray | TBD |
-| Team 7 | Shyla Vecchio, Ikakke Okokon, Jonah Buttie | TBD |
-| Team 8 | Jayla R Da Graca, Hadayza Rodriguez Garcia, Devin Cruz | TBD |
-| Team 9 | Margaret Robinson, Marcuslyne Sieh, Adam D'Ercole | TBD |
+| Team 1 | Bella D'Alessandro, Alex Moreira, Angelyce Sanchez | Katelyn, Aviva, Anirban, Sebastian, Chrystinne |
+| Team 2 | Lennon Farias, Christian Gobern, Ariella Johnson | Natalie, Urvish, Barbara, Jonathan, Xiaomeng |
+| Team 3 | Ava Domingues, Andrew Daniel, William Shealy | Elizabeth, Tiffany, Brian, Mingying, Tomonoshin |
+| Team 4 | Angela Hardy, Heidy Gomez, Alexa Eliminowicz | Bopardikar, Amélie, Dom, Lucas  |
+| Team 5 | Ty Messier, Christopher Howard, Michael Scotti | Kathryn, Beatrice, François, Joseph  |
+| Team 6 | Hope Moran, Abygail Josephson, Luke Gray | Michael, Brian, Grigorij, Mathew |
+| Team 7 | Shyla Vecchio, Ikakke Okokon, Jonah Buttie | Kenneth, Charles, Joey, Peter, Chenyu |
+| Team 8 | Jayla R Da Graca, Hadayza Rodriguez Garcia, Devin Cruz | Aimee, Patricia Piros, David, Kanan, Rakesh, Sicheng |
+| Team 9 | Margaret Robinson, Marcuslyne Sieh, Adam D'Ercole | Patricia Dionne, Douglas, Fredrik, Pablo, Renata, Matthieu  |
 
 
 ## What to Bring?
@@ -32,3 +32,14 @@ Your Laptop, if possible. Data will be made available in the cloud. We'll be usi
 
 ## What are we looking for in the students?
 There will be 9 teams of approximately 8 people: 3-4 High School students, 1 Computer Science undergraduate student, and 3-4 mentors. We want you, students, to be “sponges” and learn as much as possible. Depending on your level of comfort, you can take initiative to perform analyses, be assigned tasks, prepare the presentation, be engaged in the discussion, or simply actively listen and learn with the mentors. The mentors are domain experts, coming both from clinic and data science. They’re familiar with the question, the data sets and, therefore, they’re the ones who are expected to lead the teams. We want students to learn that this is a team science and we really need to engage people with different perspectives and from different areas of expertise to tackle such complex questions.
+
+## For High School Students
+After every workshop, make sure to do the assigned reflection. 
+
+Checkpoint 1 Reflection:     bit.ly/datathoncheck1 
+
+Checkpoint 2 Reflection:     bit.ly/datathoncheck2 
+
+Checkpoint 3 Reflection:     bit.ly/datathoncheck3 
+
+Checkpoint 4 Reflection:     bit.ly/datathoncheck4 
