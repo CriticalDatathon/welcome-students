@@ -14,17 +14,17 @@
 | 17:30 - 20:00 | 🌐 Networking Event & Dinner | 16:30 - 17:00 | 👋 Closing Session |
 
 ## Teams
-| Team | High School Students | Mentors | 
+| Team | Students | Mentors | 
 | -- | -- | -- |
-| Team 1 | Bella D'Alessandro, Alex Moreira, Angelyce Sanchez | Katelyn, Aviva, Anirban, Sebastian, Chrystinne |
-| Team 2 | Lennon Farias, Christian Gobern, Ariella Johnson | Natalie, Urvish, Barbara, Jonathan, Xiaomeng |
-| Team 3 | Ava Domingues, Andrew Daniel, William Shealy | Elizabeth, Tiffany, Brian, Mingying, Tomonoshin |
-| Team 4 | Angela Hardy, Heidy Gomez, Alexa Eliminowicz | Bopardikar, Amélie, Dom, Lucas  |
-| Team 5 | Ty Messier, Christopher Howard, Michael Scotti | Kathryn, Beatrice, François, Joseph  |
-| Team 6 | Hope Moran, Abygail Josephson, Luke Gray | Michael, Brian, Grigorij, Mathew |
-| Team 7 | Shyla Vecchio, Ikakke Okokon, Jonah Buttie | Kenneth, Charles, Joey, Peter, Chenyu |
-| Team 8 | Jayla R Da Graca, Hadayza Rodriguez Garcia, Devin Cruz | Aimee, Patricia Piros, David, Kanan, Rakesh, Sicheng |
-| Team 9 | Margaret Robinson, Marcuslyne Sieh, Adam D'Ercole | Patricia Dionne, Douglas, Fredrik, Pablo, Renata, Matthieu  |
+| Team 1 | Bella D'Alessandro, Alex Moreira, Angelyce Sanchez, Nikita Mullangi, Nuria | Katelyn, Aviva, Anirban, Sebastian, Chrystinne |
+| Team 2 | Lennon Farias, Christian Gobern, Ariella Johnson, Yueran Jia, Alla Abdulahi | Natalie, Urvish, Barbara, Jonathan, Xiaomeng |
+| Team 3 | Ava Domingues, Andrew Daniel, William Shealy, Andrew Bonney, Katherine Wellington | Elizabeth, Tiffany, Brian, Mingying, Tomonoshin |
+| Team 4 | Angela Hardy, Heidy Gomez, Alexa Eliminowicz, Diego Garay, Amala Mohamed | Bopardikar, Amélie, Dom, Lucas  |
+| Team 5 | Ty Messier, Christopher Howard, Michael Scotti, Ricardo Germain, Blessing Kolawole | Kathryn, Beatrice, François, Joseph  |
+| Team 6 | Hope Moran, Abygail Josephson, Luke Gray, Patrick Gould, Isaac Opiyo| Michael, Brian, Grigorij, Mathew |
+| Team 7 | Shyla Vecchio, Ikakke Okokon, Jonah Buttie, Pedro Kono | Kenneth, Charles, Joey, Peter, Chenyu |
+| Team 8 | Jayla R Da Graca, Hadayza Rodriguez Garcia, Devin Cruz, Mariatu Col| Aimee, Patricia Piros, David, Kanan, Rakesh, Sicheng |
+| Team 9 | Margaret Robinson, Marcuslyne Sieh, Adam D'Ercole, Anh Minh Ha. (Mia) | Patricia Dionne, Douglas, Fredrik, Pablo, Renata, Matthieu  |
 
 
 ## What to Bring?
