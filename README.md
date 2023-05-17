@@ -33,8 +33,8 @@ Your Laptop, if possible. Data will be made available in the cloud. We'll be usi
 ## What are we looking for in the students?
 There will be 9 teams of approximately 8 people: 3-4 High School students, 1 Computer Science undergraduate student, and 3-4 mentors. We want you, students, to be “sponges” and learn as much as possible. Depending on your level of comfort, you can take initiative to perform analyses, be assigned tasks, prepare the presentation, be engaged in the discussion, or simply actively listen and learn with the mentors. The mentors are domain experts, coming both from clinic and data science. They’re familiar with the question, the data sets and, therefore, they’re the ones who are expected to lead the teams. We want students to learn that this is a team science and we really need to engage people with different perspectives and from different areas of expertise to tackle such complex questions.
 
-## For Data Science and You - High School Students
-After every workshop, make sure to do the assigned reflection. 
+## For Data Science and You High School Students
+After every workshop, make sure to do the assigned reflection. For "student name" enter your team number. Have everyone on your team help to complete the short quiz! Thanks!
 
 [Checkpoint 1 Reflection](https://bit.ly/datathoncheck1)
 
